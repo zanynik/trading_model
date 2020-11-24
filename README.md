@@ -8,8 +8,13 @@ To add an edge to the network, see the following example:
 
 
 Example : Seller having node number 1 and good valuation 0 is connected to a buyer with node number 3 and valuation 10. The above connection is written as follows in the demofile.txt :
+
+
 1 0 3 10
+
+
 Therefore the sequence to follow is : 
+
 s - seller node, val_s - seller valuation,  b - buyer node, val_b - buyer valuation
 
 # Run
