@@ -7,7 +7,7 @@ By default the demofile.txt contains a basic network instance on which the tradi
 To add an edge to the network, see the following example:
 
 
-Example : Seller having node number 1 and good valuation 0 is connected to a buyer with node number 3 and valuation 10. The above connection is written as follows in the demofile.txt :
+Example : Seller having node number 1 and good valuation 0 is connected to a buyer with node number 3 and valuation 10. This edge connection is written as follows in the demofile.txt :
 
 
 1 0 3 10
