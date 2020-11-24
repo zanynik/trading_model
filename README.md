@@ -18,7 +18,7 @@ Therefore the sequence to follow is :
 s - seller node, val_s - seller valuation,  b - buyer node, val_b - buyer valuation
 
 # Run
-To solve the trading problem in the network defined in demofile.txt, run the following:
+To solve the trading problem of the network defined in demofile.txt, run the following:
 
 python main.py
 
